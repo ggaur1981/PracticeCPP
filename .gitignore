@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio Files
+*.sln
+*.vcxproj
+*.opensdf
+*.sdf
+*.suo
+*.vcxproj.filters
+*.vcxproj
+Debug/
